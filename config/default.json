@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://rajchetwani:arks2412@devconnector.ozuwe.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"Secret"
+}
